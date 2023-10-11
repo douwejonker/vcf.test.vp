@@ -1,9 +1,3 @@
-text/vcard": {
-  "source": "apache",
-  "compressible": false,
-  "extensions": ["vcf","vcard"]
-},
-
 BEGIN:VCARD
 VERSION:3.0
 N:Doe;John;;;
